@@ -11,5 +11,5 @@ With Scott Aaronson, Elad Hazan, Satyen Kale, and Ashwin Nayak.
 With Naman Agarwal, Brian Bullins, Elad Hazan, Karan Singh, Cyril Zhang, and Yi Zhang.
 
 ### Projects
-**On Second Order Methods in Optimization for Machine Learning.** Undergraduate Thesis.  
+**On Second Order Methods in Optimization for Machine Learning.** Undergraduate Thesis. _Middleton Miller '29 Prize for Best Thesis._  
 Advised by Prof. Elad Hazan.
