@@ -1,6 +1,6 @@
 ## Xinyi Chen
 
-I'm a research engineer at [Google Brain](https://ai.google/research/). I work on algorithms in machine learning, specifically online learning and nonconvex optimization. During my undergraduate studies at [Princeton](https://www.princeton.edu/), I was very fortunate to be advised by Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/). 
+I'm a research engineer at [Google Brain](https://ai.google/research/). I work on algorithms in machine learning, specifically online learning and nonconvex optimization. I graduated from the math department at [Princeton University](https://www.princeton.edu/), where I was fortunate to be advised by Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/). 
 
 ### Publications
 
