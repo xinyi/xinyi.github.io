@@ -5,7 +5,7 @@ I'm a research engineer at [Google AI](https://ai.google/research/). I'm interes
 
 ### Publications
 
-[**Online Learning of Quantum States.**](https://arxiv.org/abs/1802.09025) NIPS 2018 and QIP 2019.  
+[**Online Learning of Quantum States.**](https://arxiv.org/abs/1802.09025) NeurIPS 2018 and QIP 2019.  
 With Scott Aaronson, Elad Hazan, Satyen Kale, and Ashwin Nayak.
 
 [**Efficient Full-Matrix Adaptive Regularization.**](https://arxiv.org/abs/1806.02958) ICML 2019. [`Tensorflow Optimizer`](https://www.tensorflow.org/api_docs/python/tf/contrib/opt/GGTOptimizer)  
