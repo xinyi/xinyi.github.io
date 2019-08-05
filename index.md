@@ -12,10 +12,10 @@ With Naman Agarwal, Brian Bullins, Elad Hazan, Karan Singh, Cyril Zhang, and Yi 
 With Scott Aaronson, Elad Hazan, Satyen Kale, and Ashwin Nayak.
 
 ### Preprints
-[**Calibration, Entropy Rates, and Memory in Language Models.**](https://arxiv.org/abs/1906.05664)
+[**Calibration, Entropy Rates, and Memory in Language Models.**](https://arxiv.org/abs/1906.05664)       
 With Mark Braverman, Sham M. Kakade, Karthik Narasimhan, Cyril Zhang, and Yi Zhang.
 
-[**Extreme Tensoring for Low-Memory Preconditioning.**](https://arxiv.org/abs/1902.04620)
+[**Extreme Tensoring for Low-Memory Preconditioning.**](https://arxiv.org/abs/1902.04620)       
 With Naman Agarwal, Elad Hazan, Cyril Zhang, and Yi Zhang.
 
 ### Projects
