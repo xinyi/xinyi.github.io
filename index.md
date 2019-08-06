@@ -1,4 +1,4 @@
-<img src="/assets/photo_1.jpg" width="100"/>
+<img src="/assets/photo_1.jpg" width="150"/>
 
 ## Xinyi Chen
 
