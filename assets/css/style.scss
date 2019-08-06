@@ -6,3 +6,7 @@
 h3 {
   color: $link-color;
 }
+
+img[src*="#profile"] {
+   border-radius: 50%;
+}
