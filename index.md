@@ -2,7 +2,7 @@
 
 ## Xinyi Chen
 
-I'm a research engineer at [Google AI](https://ai.google/research/). I'm interested in algorithms in machine learning, specifically online learning and nonconvex optimization. I graduated from the math department at [Princeton University](https://www.princeton.edu/), where I was fortunate to be advised by Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/). 
+I'm a Ph.D. student in the Department of Computer Science at Princeton University. I'm very fortunate to be advised by Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/). I'm interested in algorithms for machine learning, specifically online learning and nonconvex optimization. 
 
 
 ### Publications
