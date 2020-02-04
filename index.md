@@ -5,19 +5,35 @@
 I'm a Ph.D. student in the Department of Computer Science at Princeton University. I'm very fortunate to be advised by Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/). I'm interested in algorithms for machine learning, specifically online learning and nonconvex optimization. 
 
 ### Preprints
-[**Calibration, Entropy Rates, and Memory in Language Models.**](https://arxiv.org/abs/1906.05664)       
+- [**Calibration, Entropy Rates, and Memory in Language Models.**](https://arxiv.org/abs/1906.05664)       
 With Mark Braverman, Sham M. Kakade, Karthik Narasimhan, Cyril Zhang, and Yi Zhang.
 
 
 ### Publications
-[**Extreme Tensoring for Low-Memory Preconditioning.**](https://arxiv.org/abs/1902.04620) ICLR 2020.  
+#### Conferences 
+- [**Extreme Tensoring for Low-Memory Preconditioning.**](https://arxiv.org/abs/1902.04620) *ICLR 2020.*  
 With Naman Agarwal, Elad Hazan, Cyril Zhang, and Yi Zhang.
 
-[**Efficient Full-Matrix Adaptive Regularization.**](https://arxiv.org/abs/1806.02958) ICML 2019. [`Tensorflow Optimizer`](https://www.tensorflow.org/api_docs/python/tf/contrib/opt/GGTOptimizer)  
+- [**Efficient Full-Matrix Adaptive Regularization.**](https://arxiv.org/abs/1806.02958) *ICML 2019.* [`Tensorflow Optimizer`](https://www.tensorflow.org/api_docs/python/tf/contrib/opt/GGTOptimizer)  
 With Naman Agarwal, Brian Bullins, Elad Hazan, Karan Singh, Cyril Zhang, and Yi Zhang.
 
-[**Online Learning of Quantum States.**](https://arxiv.org/abs/1802.09025) NeurIPS 2018 and QIP 2019.  
+- [**Online Learning of Quantum States.**](https://arxiv.org/abs/1802.09025) *NeurIPS 2018 and QIP 2019.*  
 With Scott Aaronson, Elad Hazan, Satyen Kale, and Ashwin Nayak.
+
+#### Workshops
+- **Onling Agnostic Boosting.** *Women in Machine Learning Workshop 2019.* **Oral Presentation.**       
+With Nataly Brukhim, Elad Hazan, Shay Moran.
+
+### Talks
+* **Online Agnostic Boosting via Regret Minimization.**
+    * MSR New England ML Lunch, Boston, MA, USA. January 2020.
+    * WiML, Vancouver, BC, Canada. December 2019.
+
+* **Efficient Full-Matrix Adaptive Regularization.**
+    * ICML, Long Beach, CA, USA. June 2019.
+  
+* **Online Learning of Quantum States.**
+    * Princeton Algorithm and Machine Learning Seminar, Princeton, NJ, USA. September 2018.
 
 
 ### Projects
