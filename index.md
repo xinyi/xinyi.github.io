@@ -5,12 +5,15 @@
 I'm a Ph.D. student in the Department of Computer Science at Princeton University. I'm very fortunate to be advised by Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/). I'm interested in algorithms for machine learning, specifically online learning and nonconvex optimization. 
 
 ### Preprints
-- [**Calibration, Entropy Rates, and Memory in Language Models.**](https://arxiv.org/abs/1906.05664)       
-With Mark Braverman, Sham M. Kakade, Karthik Narasimhan, Cyril Zhang, and Yi Zhang.
+- [**Online Agnostic Boosting via Regret Minimization.**](https://arxiv.org/abs/2003.01150)       
+With Nataly Brukhim, Elad Hazan, and Shay Moran.
 
 
 ### Publications
 #### Conferences 
+- [**Calibration, Entropy Rates, and Memory in Language Models.**](https://arxiv.org/abs/1906.05664) *ICML 2020 (to appear).*       
+With Mark Braverman, Sham M. Kakade, Karthik Narasimhan, Cyril Zhang, and Yi Zhang.
+
 - [**Extreme Tensoring for Low-Memory Preconditioning.**](https://arxiv.org/abs/1902.04620) *ICLR 2020.*  
 With Naman Agarwal, Elad Hazan, Cyril Zhang, and Yi Zhang.
 
