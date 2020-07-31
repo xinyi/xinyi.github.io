@@ -11,7 +11,7 @@ With Nataly Brukhim, Elad Hazan, and Shay Moran.
 
 ### Publications
 #### Conferences 
-- [**Calibration, Entropy Rates, and Memory in Language Models.**](https://arxiv.org/abs/1906.05664) *ICML 2020 (to appear).*       
+- [**Calibration, Entropy Rates, and Memory in Language Models.**](https://arxiv.org/abs/1906.05664) *ICML 2020.*       
 With Mark Braverman, Sham M. Kakade, Karthik Narasimhan, Cyril Zhang, and Yi Zhang.
 
 - [**Extreme Tensoring for Low-Memory Preconditioning.**](https://arxiv.org/abs/1902.04620) *ICLR 2020.*  
@@ -24,6 +24,8 @@ With Naman Agarwal, Brian Bullins, Elad Hazan, Karan Singh, Cyril Zhang, and Yi 
 With Scott Aaronson, Elad Hazan, Satyen Kale, and Ashwin Nayak.
 
 #### Workshops
+- [**Black-Box Control for Linear Dynamical Systems.**](https://arxiv.org/abs/2007.06650) *Theoretical Foundations of Reinforcement Learning Workshop, ICML 2020.* With Elad Hazan.
+
 - **Onling Agnostic Boosting.** *Women in Machine Learning Workshop 2019.* **Oral Presentation.**       
 With Nataly Brukhim, Elad Hazan, Shay Moran.
 
