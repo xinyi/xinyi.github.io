@@ -5,13 +5,12 @@ xinyic@princeton.edu
 
 I'm a Ph.D. student in the Department of Computer Science at Princeton University. I'm very fortunate to be advised by Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/). I'm interested in algorithms for machine learning, specifically online learning and nonconvex optimization. 
 
-### Preprints
-- [**Online Agnostic Boosting via Regret Minimization.**](https://arxiv.org/abs/2003.01150)       
-With Nataly Brukhim, Elad Hazan, and Shay Moran.
-
 
 ### Publications
 #### Conferences 
+- [**Online Agnostic Boosting via Regret Minimization.**](https://arxiv.org/abs/2003.01150) *NeurIPS 2020.*       
+With Nataly Brukhim, Elad Hazan, and Shay Moran.
+
 - [**Calibration, Entropy Rates, and Memory in Language Models.**](https://arxiv.org/abs/1906.05664) *ICML 2020.*       
 With Mark Braverman, Sham M. Kakade, Karthik Narasimhan, Cyril Zhang, and Yi Zhang.
 
