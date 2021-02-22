@@ -5,6 +5,9 @@ xinyic@princeton.edu
 
 I'm a Ph.D. student in the Department of Computer Science at Princeton University. I'm very fortunate to be advised by Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/). I'm interested in algorithms for machine learning, specifically online learning and nonconvex optimization. 
 
+### Preprints
+- [**Machine Learning for Mechanical Ventilation Control.**](https://arxiv.org/abs/2102.06779)
+With Daniel Suo, Udaya Ghai, Edgar Minasyan, Paula Gradu, Naman Agarwal, Cyril Zhang, Karan Singh, Julienne LaChance, Tom Zajdel, Manuel Schottdorf, Daniel Cohen, and Elad Hazan.
 
 ### Publications
 #### Conferences 
@@ -30,6 +33,9 @@ With Scott Aaronson, Elad Hazan, Satyen Kale, and Ashwin Nayak.
 With Nataly Brukhim, Elad Hazan, Shay Moran.
 
 ### Talks
+* **Black-Box Control for Linear Dynamical Systems.**
+    * RL Theory Virtual Seminars, November 2020.
+    
 * **Online Agnostic Boosting via Regret Minimization.**
     * MSR New England ML Lunch, Boston, MA, USA. January 2020.
     * WiML, Vancouver, BC, Canada. December 2019.
