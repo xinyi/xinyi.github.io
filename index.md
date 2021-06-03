@@ -11,6 +11,9 @@ With Daniel Suo, Udaya Ghai, Edgar Minasyan, Paula Gradu, Naman Agarwal, Cyril Z
 
 ### Publications
 #### Conferences 
+- [**Black-Box Control for Linear Dynamical Systems.**](https://arxiv.org/abs/2007.06650) *COLT 2021.*  
+With Elad Hazan.
+
 - [**Online Agnostic Boosting via Regret Minimization.**](https://arxiv.org/abs/2003.01150) *NeurIPS 2020.*       
 With Nataly Brukhim, Elad Hazan, and Shay Moran.
 
@@ -27,8 +30,6 @@ With Naman Agarwal, Brian Bullins, Elad Hazan, Karan Singh, Cyril Zhang, and Yi 
 With Scott Aaronson, Elad Hazan, Satyen Kale, and Ashwin Nayak.
 
 #### Workshops
-- [**Black-Box Control for Linear Dynamical Systems.**](https://arxiv.org/abs/2007.06650) *Theoretical Foundations of Reinforcement Learning Workshop, ICML 2020.* With Elad Hazan.
-
 - **Onling Agnostic Boosting.** *Women in Machine Learning Workshop 2019.* **Oral Presentation.**       
 With Nataly Brukhim, Elad Hazan, Shay Moran.
 
