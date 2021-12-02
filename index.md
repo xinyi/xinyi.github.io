@@ -1,9 +1,9 @@
 <img src="/assets/photo_1.jpg" width="120" align="right"/>
 
 ## Xinyi Chen
-xinyic@princeton.edu
+xinyic@princeton.edu &nbsp; &nbsp; &nbsp; CV
 
-I'm a Ph.D. student in the Department of Computer Science at Princeton University. I'm very fortunate to be advised by Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/). I'm interested in algorithms for machine learning, specifically online learning and nonconvex optimization. 
+I am a Ph.D. student in the Department of Computer Science at Princeton University, where I am very fortunate to be advised by Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/). My research is at the intersection of machine learning, optimization, and dynamical systems. I focus on developing provably robust and efficient methods for sequential decision-making and control, with applications in medical devices, deep learning, and quantum computing. I completed my undergraduate studies also at Princeton, in the Mathematics Department.
 
 ### Preprints
 - [**Machine Learning for Mechanical Ventilation Control.**](https://arxiv.org/abs/2102.06779)  
