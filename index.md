@@ -38,6 +38,9 @@ With Naman Agarwal, Brian Bullins, Elad Hazan, Karan Singh, Cyril Zhang, and Yi 
 With Scott Aaronson, Elad Hazan, Satyen Kale, and Ashwin Nayak.
 
 #### Workshops
+- [**Robust Online Control with Model Misspecification.**](https://arxiv.org/pdf/2107.07732.pdf) *ICML 2021 Workshop on Reinforcement Learning.*  
+With Udaya Ghai, Elad Hazan, and Alexandre Megretski.
+
 - **Onling Agnostic Boosting.** *Women in Machine Learning Workshop 2019.* **Oral Presentation.**       
 With Nataly Brukhim, Elad Hazan, Shay Moran.
 
