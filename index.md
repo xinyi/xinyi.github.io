@@ -5,33 +5,36 @@ xinyic@princeton.edu
 
 **I am currently on the academic job market, please find my CV [here](cv.pdf).**
 
-I am a Ph.D. candidate in the Department of Computer Science at Princeton University, where I am very fortunate to be advised by Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/). Concurrently, I am a research scientist at Google AI Princeton. Previously, I completed my undergraduate studies also at Princeton, in the Mathematics Department. My research was generously supported by the NSF Graduate Research Fellowship and the Gordon Wu Fellowship from Princeton University.
+I am a Ph.D. candidate in the Department of Computer Science at Princeton University, where I am very fortunate to be advised by Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/). Concurrently, I am a research scientist at Google AI Princeton. Previously, I completed my undergraduate studies also at Princeton, in the Mathematics Department. I was generously funded by the NSF Graduate Research Fellowship and the Gordon Wu Fellowship from Princeton University.
 
 
 My research is at the intersection of machine learning, optimization, and dynamical systems. I focus on developing provably robust and efficient methods for sequential decision-making and control, with applications in medical devices, deep learning, and quantum computing. 
 
 ### Preprints
-- [**Machine Learning for Mechanical Ventilation Control.**](https://arxiv.org/abs/2102.06779)  
-With Daniel Suo, Udaya Ghai, Edgar Minasyan, Paula Gradu, Naman Agarwal, Cyril Zhang, Karan Singh, Julienne LaChance, Tom Zajdel, Manuel Schottdorf, Daniel Cohen, and Elad Hazan.
+- [**Provable Regret Bounds for Deep Online Learning and Control.**](https://arxiv.org/pdf/2110.07807.pdf)  
+With Edgar Minasyan, Jason D. Lee, and Elad Hazan.
 
 ### Publications
 #### Conferences 
-- [**Black-Box Control for Linear Dynamical Systems.**](https://arxiv.org/abs/2007.06650) *COLT 2021.*  
+- [**Machine Learning for Mechanical Ventilation Control.**](https://arxiv.org/pdf/2111.10434.pdf) (extended abstract) *ML4H 2021.*  
+With Daniel Suo, Udaya Ghai, Edgar Minasyan, Paula Gradu, Naman Agarwal, Cyril Zhang, Karan Singh, Julienne LaChance, Tom Zajdel, Manuel Schottdorf, Daniel Cohen, and Elad Hazan.
+
+- [**Black-Box Control for Linear Dynamical Systems.**](http://proceedings.mlr.press/v134/chen21c/chen21c.pdf) *COLT 2021.*  
 With Elad Hazan.
 
-- [**Online Agnostic Boosting via Regret Minimization.**](https://arxiv.org/abs/2003.01150) *NeurIPS 2020.*       
+- [**Online Agnostic Boosting via Regret Minimization.**](https://proceedings.neurips.cc//paper/2020/file/07168af6cb0ef9f78dae15739dd73255-Paper.pdf) *NeurIPS 2020.*       
 With Nataly Brukhim, Elad Hazan, and Shay Moran.
 
-- [**Calibration, Entropy Rates, and Memory in Language Models.**](https://arxiv.org/abs/1906.05664) *ICML 2020.*       
+- [**Calibration, Entropy Rates, and Memory in Language Models.**](http://proceedings.mlr.press/v119/braverman20a/braverman20a.pdf) *ICML 2020.*       
 With Mark Braverman, Sham M. Kakade, Karthik Narasimhan, Cyril Zhang, and Yi Zhang.
 
-- [**Extreme Tensoring for Low-Memory Preconditioning.**](https://arxiv.org/abs/1902.04620) *ICLR 2020.*  
+- [**Extreme Tensoring for Low-Memory Preconditioning.**](https://openreview.net/pdf?id=SklKcRNYDH) *ICLR 2020.*  
 With Naman Agarwal, Elad Hazan, Cyril Zhang, and Yi Zhang.
 
-- [**Efficient Full-Matrix Adaptive Regularization.**](https://arxiv.org/abs/1806.02958) *ICML 2019.* [`Tensorflow Optimizer`](https://www.tensorflow.org/api_docs/python/tf/contrib/opt/GGTOptimizer)  
+- [**Efficient Full-Matrix Adaptive Regularization.**](http://proceedings.mlr.press/v97/agarwal19b/agarwal19b.pdf) *ICML 2019.* [`Tensorflow Optimizer`](https://www.tensorflow.org/api_docs/python/tf/contrib/opt/GGTOptimizer)  
 With Naman Agarwal, Brian Bullins, Elad Hazan, Karan Singh, Cyril Zhang, and Yi Zhang.
 
-- [**Online Learning of Quantum States.**](https://arxiv.org/abs/1802.09025) *NeurIPS 2018 and QIP 2019.*  
+- [**Online Learning of Quantum States.**](https://papers.nips.cc/paper/2018/file/c1a3d34711ab5d85335331ca0e57f067-Paper.pdf) *NeurIPS 2018 and QIP 2019.*  
 With Scott Aaronson, Elad Hazan, Satyen Kale, and Ashwin Nayak.
 
 #### Workshops
