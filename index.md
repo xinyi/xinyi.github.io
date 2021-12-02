@@ -15,7 +15,7 @@ My research is at the intersection of machine learning, optimization, and dynami
 With Edgar Minasyan, Jason D. Lee, and Elad Hazan.
 
 ### Publications
-#### Conferences 
+#### Conference Publications 
 - [**Machine Learning for Mechanical Ventilation Control.**](https://arxiv.org/pdf/2111.10434.pdf) (extended abstract) *ML4H 2021.*  
 With Daniel Suo, Udaya Ghai, Edgar Minasyan, Paula Gradu, Naman Agarwal, Cyril Zhang, Karan Singh, Julienne LaChance, Tom Zajdel, Manuel Schottdorf, Daniel Cohen, and Elad Hazan.
 
@@ -44,16 +44,26 @@ With Udaya Ghai, Elad Hazan, and Alexandre Megretski.
 - **Onling Agnostic Boosting.** *Women in Machine Learning Workshop 2019.* **Oral Presentation.**       
 With Nataly Brukhim, Elad Hazan, Shay Moran.
 
+#### Journal Proceedings
+- [**Online Learning of Quantum States.**](https://iopscience.iop.org/article/10.1088/1742-5468/ab3988) *Journal of Statistical Mechanics: Theory and Experiment, 2019.*  
+With Scott Aaronson, Elad Hazan, Satyen Kale, and Ashwin Nayak.
+
 ### Talks
+* **Provable Regret Bounds for Deep Online Learning and Control.**
+     * Google Research Learning Theory Workshop, Virtual. October 2021.
+
 * **Black-Box Control for Linear Dynamical Systems.**
+    * Google Research Diff-everything Workshop, Virtual. September 2021.
+    * Conference on Learning Theory, Boulder, CO, USA. August 2021.
     * RL Theory Virtual Seminars, November 2020.
     
 * **Online Agnostic Boosting via Regret Minimization.**
+    * Google Research Conference, Mountain View, CA, USA. February 2020.
     * MSR New England ML Lunch, Boston, MA, USA. January 2020.
     * WiML, Vancouver, BC, Canada. December 2019.
 
 * **Efficient Full-Matrix Adaptive Regularization.**
-    * ICML, Long Beach, CA, USA. June 2019.
+    * International Conference on Machine Learning, Long Beach, CA, USA. June 2019.
   
 * **Online Learning of Quantum States.**
     * Princeton Algorithm and Machine Learning Seminar, Princeton, NJ, USA. September 2018.
