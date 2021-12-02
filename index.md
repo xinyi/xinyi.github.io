@@ -1,9 +1,14 @@
 <img src="/assets/photo_1.jpg" width="120" align="right"/>
 
 ## Xinyi Chen
-xinyic@princeton.edu &nbsp; &nbsp; &nbsp; CV
+xinyic@princeton.edu 
 
-I am a Ph.D. student in the Department of Computer Science at Princeton University, where I am very fortunate to be advised by Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/). My research is at the intersection of machine learning, optimization, and dynamical systems. I focus on developing provably robust and efficient methods for sequential decision-making and control, with applications in medical devices, deep learning, and quantum computing. I completed my undergraduate studies also at Princeton, in the Mathematics Department.
+**I am currently on the academic job market, please find my CV [here](cv.pdf).**
+
+I am a Ph.D. candidate in the Department of Computer Science at Princeton University, where I am very fortunate to be advised by Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/). Concurrently, I am a research scientist at Google AI Princeton. Previously, I completed my undergraduate studies also at Princeton, in the Mathematics Department. My research is generously supported by the NSF Graduate Research Fellowship and the Gordon Wu Fellowship from Princeton University.
+
+
+My research is at the intersection of machine learning, optimization, and dynamical systems. I focus on developing provably robust and efficient methods for sequential decision-making and control, with applications in medical devices, deep learning, and quantum computing. 
 
 ### Preprints
 - [**Machine Learning for Mechanical Ventilation Control.**](https://arxiv.org/abs/2102.06779)  
