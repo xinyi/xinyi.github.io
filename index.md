@@ -14,11 +14,12 @@ My research is at the intersection of machine learning, optimization, and dynami
 - [**Provable Regret Bounds for Deep Online Learning and Control.**](https://arxiv.org/pdf/2110.07807.pdf)  
 With Edgar Minasyan, Jason D. Lee, and Elad Hazan.
 
-- [**Robust Online Control with Model Misspecification.**](robust_control_1.pdf)  
-With Udaya Ghai, Elad Hazan, and Alexandre Megretski.
 
 ### Publications
 #### Conference Publications 
+- [**Robust Online Control with Model Misspecification.**](robust_control_1.pdf)  *L4DC 2022.*  
+With Udaya Ghai, Elad Hazan, and Alexandre Megretski.
+
 - [**Machine Learning for Mechanical Ventilation Control.**](https://arxiv.org/pdf/2111.10434.pdf) (extended abstract) *ML4H 2021.*  
 With Daniel Suo, Udaya Ghai, Edgar Minasyan, Paula Gradu, Naman Agarwal, Cyril Zhang, Karan Singh, Julienne LaChance, Tom Zajdel, Manuel Schottdorf, Daniel Cohen, and Elad Hazan.
 
