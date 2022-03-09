@@ -3,7 +3,6 @@
 ## Xinyi Chen
 xinyic@princeton.edu 
 
-**I am currently on the academic job market, please find my CV [here](cv.pdf).**
 
 I am a Ph.D. candidate in the Department of Computer Science at Princeton University, where I am very fortunate to be advised by Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/). Concurrently, I am a research scientist at Google AI Princeton. Previously, I completed my undergraduate studies also at Princeton, in the Mathematics Department. I was generously funded by the NSF Graduate Research Fellowship and the Gordon Wu Fellowship from Princeton University.
 
