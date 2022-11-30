@@ -10,7 +10,7 @@ I am a Ph.D. candidate in the Department of Computer Science at Princeton Univer
 My research is at the intersection of machine learning, optimization, and dynamical systems. I focus on developing provably robust and efficient methods for sequential decision-making and control, with applications in medical devices, deep learning, and quantum computing. 
 
 ### Preprints
-- [**Provable Regret Bounds for Deep Online Learning and Control.**](https://arxiv.org/pdf/2110.07807.pdf)  
+- [**Provable Regret Bounds for Deep Online Learning and Control.**](submission_1.pdf)  
 With Edgar Minasyan, Jason D. Lee, and Elad Hazan.
 
 
