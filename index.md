@@ -1,21 +1,31 @@
-<img src="/assets/photo_1.jpg" width="120" align="right"/>
+<img src="/assets/headshot.jpeg" width="120" align="right"/>
 
 ## Xinyi Chen
 xinyic@princeton.edu 
 
 
-I am a Ph.D. candidate in the Department of Computer Science at Princeton University, where I am very fortunate to be advised by Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/). Concurrently, I am a research scientist at Google AI Princeton. Previously, I completed my undergraduate studies also at Princeton, in the Mathematics Department. I was generously funded by the NSF Graduate Research Fellowship and the Gordon Wu Fellowship from Princeton University.
+I am a Ph.D. candidate in the Department of Computer Science at Princeton University, where I am very fortunate to be advised by Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/). Concurrently, I am a research scientist at Google DeepMind. Previously, I completed my undergraduate studies also at Princeton, in the Mathematics Department. I was generously funded by the NSF Graduate Research Fellowship and the Gordon Wu Fellowship from Princeton University.
 
 
 My research is at the intersection of machine learning, optimization, and dynamical systems. I focus on developing provably robust and efficient methods for sequential decision-making and control, with applications in medical devices, deep learning, and quantum computing. 
 
 ### Preprints
-- [**Provable Regret Bounds for Deep Online Learning and Control.**](submission_1.pdf)  
-With Edgar Minasyan, Jason D. Lee, and Elad Hazan.
+- [**A Nonstochastic Control Approach to Optimization.**](https://arxiv.org/pdf/2301.07902.pdf)  
+With Elad Hazan.
+
+- [**Sketchy: Memory-efficient Adaptive Regularization with Frequent Directions.**](https://arxiv.org/pdf/2302.03764.pdf)  
+With Vladimir Feinberg, Y. Jennifer Sun, Rohan Anil, and Elad Hazan.
 
 
 ### Publications
 #### Conference Publications 
+
+- [**Provable Regret Bounds for Deep Online Learning and Control.**](submission_1.pdf)  *L4DC 2023.*  
+With Edgar Minasyan, Jason D. Lee, and Elad Hazan.
+
+- [**Adaptive Online Learning of Quantum States.**](https://arxiv.org/pdf/2206.00220.pdf)  *QIP 2023.*  
+With Elad Hazan, Tongyang Li, Zhou Lu, Xinzhao Wang, and Rui Yang.
+
 - [**Robust Online Control with Model Misspecification.**](robust_control_1.pdf)  *L4DC 2022.*  
 With Udaya Ghai, Elad Hazan, and Alexandre Megretski.
 
