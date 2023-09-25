@@ -58,6 +58,14 @@ With Nataly Brukhim, Elad Hazan, Shay Moran.
 - [**Online Learning of Quantum States.**](https://iopscience.iop.org/article/10.1088/1742-5468/ab3988) *Journal of Statistical Mechanics: Theory and Experiment, 2019.*  
 With Scott Aaronson, Elad Hazan, Satyen Kale, and Ashwin Nayak.
 
+### Service
+**Area Chair:** NeurIPS 2023  
+**Program Committee:** COLT 2021-23  
+**General Co-Chair:** Women in Machine Learning (WiML) Workshop 2020  
+**Reviewer:** NeurIPS (2020-22), ICML (2020-23), L4DC, AISTATS, JMLR, TMLR
+
+
+
 ### Talks
 * **Provable Regret Bounds for Deep Online Learning and Control.**
      * Google Research Learning Theory Workshop, Virtual. October 2021.
