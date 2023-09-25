@@ -7,7 +7,7 @@ xinyic@princeton.edu
 I am a Ph.D. candidate in the Department of Computer Science at Princeton University, where I am very fortunate to be advised by Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/). Concurrently, I am a research scientist at Google DeepMind. Previously, I completed my undergraduate studies also at Princeton, in the Mathematics Department. I was generously funded by the NSF Graduate Research Fellowship and the Gordon Wu Fellowship from Princeton University.
 
 
-My research is at the intersection of machine learning, optimization, and dynamical systems. I focus on developing provably robust and efficient methods for sequential decision-making and control, with applications in medical devices, deep learning, and quantum computing. 
+My research is at the intersection of machine learning, optimization, and dynamical systems. I focus on developing provably robust and efficient methods for sequential decision-making and control, with applications in deep learning and quantum computing. 
 
 ### Preprints
 - [**A Nonstochastic Control Approach to Optimization.**](https://arxiv.org/pdf/2301.07902.pdf)  
@@ -78,7 +78,3 @@ With Scott Aaronson, Elad Hazan, Satyen Kale, and Ashwin Nayak.
 * **Online Learning of Quantum States.**
     * Princeton Algorithm and Machine Learning Seminar, Princeton, NJ, USA. September 2018.
 
-
-### Projects
-**On Second Order Methods in Optimization for Machine Learning.** Undergraduate Thesis. _Middleton Miller '29 Prize for Best Thesis._  
-Advised by Prof. Elad Hazan.
