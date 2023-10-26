@@ -10,15 +10,14 @@ I am a Ph.D. candidate in the Department of Computer Science at Princeton Univer
 My research is at the intersection of machine learning, optimization, and dynamical systems. I focus on developing provably robust and efficient methods for sequential decision-making and control, with applications in deep learning and quantum computing. 
 
 ### Preprints
-- [**A Nonstochastic Control Approach to Optimization.**](https://arxiv.org/pdf/2301.07902.pdf)  
-With Elad Hazan.
-
-- [**Sketchy: Memory-efficient Adaptive Regularization with Frequent Directions.**](https://arxiv.org/pdf/2302.03764.pdf)  
-With Vladimir Feinberg, Y. Jennifer Sun, Rohan Anil, and Elad Hazan.
-
 
 ### Publications
-#### Conference Publications 
+#### Conference Publications
+- [**Online Control for Meta-optimization.**](https://arxiv.org/pdf/2301.07902.pdf)  *NeurIPS 2023.* Spotlight  
+With Elad Hazan.
+
+- [**Sketchy: Memory-efficient Adaptive Regularization with Frequent Directions.**](https://arxiv.org/pdf/2302.03764.pdf)  *NeurIPS 2023.*  
+With Vladimir Feinberg, Y. Jennifer Sun, Rohan Anil, and Elad Hazan.
 
 - [**Provable Regret Bounds for Deep Online Learning and Control.**](submission_1.pdf)  *L4DC 2023.*  
 With Edgar Minasyan, Jason D. Lee, and Elad Hazan.
