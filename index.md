@@ -67,19 +67,22 @@ Xinyi Chen, Naman Agarwal, Elad Hazan, Cyril Zhang, Yi Zhang
 Naman Agarwal, Brian Bullins, Xinyi Chen, Elad Hazan, Karan Singh, Cyril Zhang, Yi Zhang       
 *ICLR 2020.* 
 
-- [**Online Learning of Quantum States.**](https://papers.nips.cc/paper/2018/file/c1a3d34711ab5d85335331ca0e57f067-Paper.pdf) *NeurIPS 2018 and QIP 2019.*  
-With Scott Aaronson, Elad Hazan, Satyen Kale, and Ashwin Nayak.
+- [**Online Learning of Quantum States.**](https://papers.nips.cc/paper/2018/file/c1a3d34711ab5d85335331ca0e57f067-Paper.pdf)     
+Scott Aaronson, Xinyi Chen, Elad Hazan, Satyen Kale, Ashwin Nayak    
+*NeurIPS 2018 and QIP 2019.*  
 
 #### Workshops
 - **Onling Agnostic Boosting.** *Women in Machine Learning Workshop 2019.* **Oral Presentation.**       
 With Nataly Brukhim, Elad Hazan, Shay Moran.
 
 #### Journal Proceedings
-- [**Online Learning of Quantum States.**](https://iopscience.iop.org/article/10.1088/1742-5468/ab3988) *Journal of Statistical Mechanics: Theory and Experiment, 2019.*  
-With Scott Aaronson, Elad Hazan, Satyen Kale, and Ashwin Nayak.
+- [**Online Learning of Quantum States.**](https://iopscience.iop.org/article/10.1088/1742-5468/ab3988)       
+Scott Aaronson, Xinyi Chen, Elad Hazan, Satyen Kale, Ashwin Nayak       
+*Journal of Statistical Mechanics: Theory and Experiment, 2019.*  
 
-- [**Adaptive Online Learning of Quantum States.**](https://quantum-journal.org/papers/q-2024-09-12-1471/) *Quantum, 2024.*  
-With Elad Hazan, Tongyang Li, Zhou Lu, Xinzhao Wang, and Rui Yang.
+- [**Adaptive Online Learning of Quantum States.**](https://quantum-journal.org/papers/q-2024-09-12-1471/)      
+Xinyi Chen, Elad Hazan, Tongyang Li, Zhou Lu, Xinzhao Wang, Rui Yang       
+*Quantum, 2024.* 
 
 ### Service
 **Area Chair:** NeurIPS 2023, 2024  
